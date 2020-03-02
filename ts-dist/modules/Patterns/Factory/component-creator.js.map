@@ -1,0 +1,1 @@
+{"version":3,"file":"component-creator.js","sourceRoot":"","sources":["../../../../src/modules/Patterns/Factory/component-creator.ts"],"names":[],"mappings":";;AAEA;;IAEI;AACJ,MAAsB,gBAAgB;IAE3B,aAAa;QAChB,IAAI,SAAS,GAAc,IAAI,CAAC,eAAe,EAAE,CAAC;QAClD,SAAS,CAAC,MAAM,EAAE,CAAC;IACvB,CAAC;CAGJ;AARD,4CAQC"}
